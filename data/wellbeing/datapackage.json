@@ -1,0 +1,65 @@
+{
+    "name": "measuring_personal_wellbeing", 
+    "title": "Measuring Personal Wellbeing", 
+    "license": "OGL-UK-2.0", 
+    "UKSA-Designation": "Experimental Official Statistics", 
+    "StatisticalPopulation": "People in  UK", 
+    "GeoHierarchy": "2012STATH", 
+    "GeoCoverage": "English", 
+    "StaticticalUnit": "People", 
+    "MeasureType": "Percentage", 
+    "UnitofMeasure": "Percent", 
+    "resources": [
+        {
+            "path": "data.csv", 
+            "schema": {
+                "fields": [
+                    {
+                        "type": "string", 
+                        "name": "Observation"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "DataMarking"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "UnitMulitplier"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "UnitofMeasure"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "MeasureType"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "QualityIndicator"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "GeographyCode"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "GeographyLabel"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "Time"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "Measure Type"
+                    }, 
+                    {
+                        "type": "string", 
+                        "name": "Score Band"
+                    }
+                ]
+            }
+        }
+    ]
+}
