@@ -4,7 +4,7 @@
     "license": "OGL-UK-2.0", 
     "UKSA-Designation": "Experimental Official Statistics", 
     "StatisticalPopulation": "People in  UK", 
-    "GeoHierarchy": "2012STATH", 
+    "GeoHierarchy": "2012WARDH", 
     "GeoCoverage": "English", 
     "StaticticalUnit": "People", 
     "MeasureType": "Percentage", 
